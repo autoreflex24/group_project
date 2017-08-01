@@ -25,6 +25,7 @@
 .subtitle{
   text-align:center;
   font-style:italic;
+  color: white;
 }
 
 .link{
@@ -33,8 +34,19 @@
 
 p{
   text-align: center;
+  color: black;
 }
 
 .image{
   text-align: center;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  color: white;
 }
